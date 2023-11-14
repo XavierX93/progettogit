@@ -1,0 +1,119 @@
+.stilecaratteri,h5 {
+    /* font-family: 'Asap Condensed', sans-serif; */
+/* font-family: 'Kurale', serif; */
+font-family: 'STIX Two Text', serif;
+}
+/* body {
+    background-image: url(./baseball_stadium-wallpaper-3840x2160.jpg);
+    background-color: rgba(240, 248, 255, 0.162);
+} */
+body {
+    background-attachment:fixed;
+    background-size: cover;
+    
+}
+.hhh {
+    color: aliceblue;
+}
+
+/* .testoprincipale {
+    font-style: 50vh;
+} */
+ul {
+    /* font-family: 'Kurale', serif; */
+    font-family: 'STIX Two Text', serif;
+    }
+.logo1 {
+    margin-top: -7px;
+}
+
+/* .imguno {
+    width: 50vw;
+    height: 50vh;
+} */
+
+/* .imgdue {
+    height: 40px;
+
+} */
+.saverio {
+    height: 100vh;
+   
+}
+
+.saverio2 {
+    height: 100vh;
+}
+.ggg {
+    font-family: 'Kurale', serif;
+    color: white;
+    
+
+}
+.jjj {
+    color: aliceblue;
+}
+.ggg:hover {
+    transform: scale(1.7);
+    transition: 0.8s;
+    transition-delay: 0.2s;
+}
+.ttt {
+    color: aliceblue;
+}
+.kkk {
+    background-color: rgba(255, 235, 205, 0.408);
+}
+.line {
+    background-color: rgb(255, 255, 255);
+    height: 2px;
+}
+.imgheader1 {
+    background-image: url(Center-fielder-Torii-Hunter-tries-to-score-Game-3-2006-American-League-Division-Series-Brad-Mangin_resized.png);
+    height: 500px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+ 
+    
+}
+/* .principale:hover {
+    transform: scale(1.5);
+    transition: 1;
+
+} */
+
+.imgheader,.imgheader1:hover {
+    transform: scale(1.1);
+    transition: 0.8s;
+    transition-delay: 0.2s;
+
+}
+
+.imgcard3 {
+    height: 100%;
+    width: 300px;
+}
+.imgcardsa {
+    height: 70vh;
+    
+}
+.carosello {
+    height: 70vh;
+}
+/* nav {
+    border: 1px solid black;
+} */
+.carta1:hover {
+    transform: scale(1.1);
+    transition: 0.3s;
+    transition-delay: 0.1s;
+}
+
+.imgtest1 {
+    height: 30vh;
+}
+
+.bottone1 {
+    border: 1px solid lightgrey;
+}

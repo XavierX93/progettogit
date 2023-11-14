@@ -1,0 +1,29 @@
+/* Color: darkred, #C67F7F, #ececec
+
+Font:  Nova Square, Rajdhani */
+.logo1 {
+    height: 70px;
+    width: 150px;
+    text-align: center;
+    margin-left: 42%;
+}
+.customli {
+    padding: 0px 40px 0px 40px;
+}
+.navbar {
+    color: #ececec;
+}
+.mountain {
+    height: 100vh;
+    background: url(./media/mountains2.png), linear-gradient(white, transparent), url(./media/switzerland-862870_1920.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: bottom, center, center;
+}
+
+h1 {
+    color: darkred ;
+    font-family: Nova Square;
+    letter-spacing: 20px;
+    font-size: 70px;
+}

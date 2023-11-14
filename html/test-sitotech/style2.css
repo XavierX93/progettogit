@@ -1,0 +1,52 @@
+
+header {
+    color: rgb(255, 255, 255);
+    border-radius: 30px;
+    border: 1px solid rgb(255, 255, 255);
+    /* background-color: rgba(22, 22, 39, 0.514); */
+    padding: 1px;
+    height:80px;
+    width: 100%;
+    margin: 0px;
+    text-align: center;
+    background: rgb(127,131,149);
+    background: radial-gradient(circle, rgba(127, 131, 149, 0.32) 0%, rgba(186, 108, 48, 0.304) 100%);
+    /* background: rgb(207,209,222);
+    background: radial-gradient(circle, rgba(207, 209, 222, 0.252) 0%, rgba(0, 0, 0, 0.334) 100%);
+ */
+}
+ul {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 100%;
+    margin: 0;
+    list-style: none;
+    margin-top: 25px;
+}
+li {
+    font-size: 25px;
+    list-style: none;
+}
+a {
+    text-decoration: none;
+    color: aliceblue;
+}
+body {
+    background-image: url("./menu-background-112317.jpg");
+    background-attachment:fixed;
+}
+h1, h3, p {
+    font-family: 'Asap Condensed', sans-serif;
+    font-size: 40px;
+    text-align: left;
+}
+.cimedirapa {
+    float: left
+    margin right 10px;
+}
+article{
+    clear: both;
+    overflow: auto;
+    width: 100%;
+}

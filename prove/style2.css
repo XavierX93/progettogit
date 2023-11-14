@@ -1,0 +1,8 @@
+.logo::before {
+    content: ;
+    position: absolute;
+    background-color: #4285f4;
+    width: 30px;
+    height: 15px;
+    transform: translate(-50%);
+}

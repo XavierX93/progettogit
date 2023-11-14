@@ -1,0 +1,148 @@
+header {
+    color: rgb(255, 255, 255);
+    border-radius: 30px;
+    border: 1px solid rgb(255, 255, 255);
+    /* background-color: rgba(22, 22, 39, 0.514); */
+    padding: 1px;
+    height:80px;
+    width: 100%;
+    margin: 0px;
+    text-align: center;
+    background: rgb(127,131,149);
+    background: radial-gradient(circle, rgba(127, 131, 149, 0.32) 0%, rgba(186, 108, 48, 0.304) 100%);
+    /* background: rgb(207,209,222);
+    background: radial-gradient(circle, rgba(207, 209, 222, 0.252) 0%, rgba(0, 0, 0, 0.334) 100%);
+ */
+}
+ul {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 100%;
+    margin: 0;
+    list-style: none;
+    
+}
+li {
+    font-size: 25px;
+    list-style: none;
+}
+a {
+    text-decoration: none;
+    color: aliceblue;
+}
+.home {
+    text-align: center;
+    
+
+    
+}
+li {
+    font-family: 'Asap Condensed', sans-serif;
+    text-align: center;
+    color: white;
+}
+.center {
+    height: 100%;
+}
+
+h1, h3, p {
+    font-family: 'Asap Condensed', sans-serif;
+    font-size: 40px;
+    text-align: center;
+}
+h3 {
+    color: rgb(255, 255, 255);
+}
+
+h4 {
+    font-size: 20px;
+}
+
+h2 {
+    font-family: 'Asap Condensed', sans-serif;
+    font-size: 30px;
+    text-align: center;
+}
+hr {
+        color: rgb(255, 255, 255);
+        background: rgb(255, 255, 255);
+        border: 0;
+        height: 2px;
+        }
+        
+    
+body {
+    background-image: url("./menu-background-112317.jpg");
+    background-attachment:fixed;
+    background-size: cover;
+    
+}
+.Procedimento {
+    font-size: 30px;
+}
+.paragrafo {
+    border: solid rgb(0, 0, 0);
+    background-color: rgb(1, 2, 2);
+    margin: 10px;
+    width: 300px;
+    text-align: left;
+    background-color: rgba(240, 248, 255, 0);
+    border-radius: 15px;
+}
+
+.Testi {
+    text-align: center;
+    font-family: 'Asap Condensed', sans-serif;
+}
+
+.ingredienti {
+    text-align: center;
+    font-family: 'Asap Condensed', sans-serif;
+    color: white;
+    
+}
+.secondoblocco {
+    display: flex;
+    justify-content: space-around;
+    align-items: first baseline;
+    }
+
+p {
+    color: white;
+    
+}
+
+footer {
+
+    color: rgb(255, 255, 255);
+    border-radius: 30px;
+    border: 1px solid rgb(255, 255, 255);
+    background-color: rgba(22, 22, 39, 0.514);
+    padding: 1px;
+    height:80px;
+    width: 100%;
+    margin: 0px;
+    text-align: right;
+    
+}
+
+.finale  {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    list-style: none;
+    color: rgb(255, 255, 255);
+    border-radius: 30px;
+    background-color: rgba(22, 22, 39, 0.514);
+    padding: 1px;
+    height:80px;
+    width: 100%;
+    margin: 0px;
+    text-align: center;
+    background: rgb(127,131,149);
+    background: radial-gradient(circle, rgba(127, 131, 149, 0.32) 0%, rgba(186, 108, 48, 0.304) 100%);
+}
+
+
+ 
